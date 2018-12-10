@@ -1,0 +1,26 @@
+body{
+  font-family: Helvetica;
+  text-align: center;
+  vertical-align: center;
+}
+
+#forTheGrid{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 100px 100px 100px
+}
+
+#title{
+  background-color: #FF5567;
+  grid-column: span 2;
+}
+
+#resultButton{
+  background-color: #5588FF;
+  font-style: oblique;
+}
+
+#forInput{
+  padding: 50px;
+  grid-column: span 2;
+}

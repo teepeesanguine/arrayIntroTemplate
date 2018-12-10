@@ -1,0 +1,8 @@
+#forTheGrid{
+  display: grid;
+  /* you'll need to decide how to layout your grid using the stuff below. */
+  /* grid-template-columns: ;
+  grid-template-rows: ; */
+}
+
+/* maybe you want to add some other formatting to make this look a bit better, too? */
